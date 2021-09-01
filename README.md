@@ -1,4 +1,4 @@
 # TEJ-Projects
 
-These are some images of the projects i created for my highschool TEJ course.
+These are some images of the projects I created for my highschool TEJ course.
 
