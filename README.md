@@ -4,7 +4,7 @@ These are some of the projects I created for my highschool TEJ course.
 
 ## Firefighter Robot:
  - This project I created a robot that traverses a maze to extinguish a flame.
- - Utilized 2 distance sensors and 1 line detector to steer and use a blower fan effectively.
+ - Utilized 2 distance sensors, 1 line detector and 1 infrared sensor to steer and use a blower fan effectively.
  - This was the only bot in the class to successfully extinguish a flame. 
 
 
